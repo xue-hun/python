@@ -25,7 +25,7 @@ def zhuanhuan(bianma):
     # print xiazaiurl[0]
     return xiazaiurl[0]
     
-jishu = 165
+jishu = 0
 while (jishu < 518):
     mingz = str(jishu)
     mingz = mingz.zfill(5)
